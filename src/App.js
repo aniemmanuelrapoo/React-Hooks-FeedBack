@@ -1,7 +1,8 @@
 function App() {
   return (
-    <div className="App">
-      <h1>Hello from the app component</h1>
+    <div className="container">
+      {/* JSX */}
+      <h1>My App</h1>
     </div>
   );
 }
